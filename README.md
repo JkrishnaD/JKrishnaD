@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/jkrishna_d" target="blank"><img src="https://img.shields.io/twitter/follow/jkrishna_d?logo=twitter&style=for-the-badge" alt="jkrishna_d" /></a> </p>
 
+- 🌐 New to open-source
+
 - 🌱 I’m currently learning **More than my limits**
 
 - 💬 Ask me about **Anything**
