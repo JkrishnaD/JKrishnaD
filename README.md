@@ -21,13 +21,24 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JKrishnaD&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JKrishnaD&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 ---
 
