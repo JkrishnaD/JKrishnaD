@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jayak@gmail.com**
 
-- ⚡ Fun fact **Even sun has to set...**
+- ⚡ Fun fact **You are always just one decision away from a totally different Life....**
 
 # 💻 Tech Stack:
 
