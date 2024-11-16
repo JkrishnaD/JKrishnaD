@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **jayak@gmail.com**
+- 📫 How to reach me **jayak5063@gmail.com**
 
 - ⚡ Fun fact **You are always just one decision away from a totally different Life....**
 
@@ -23,6 +23,8 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
