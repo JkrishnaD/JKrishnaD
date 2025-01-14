@@ -59,9 +59,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JKrishnaD&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-      </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
