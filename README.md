@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/jkrishna_d" target="blank"><img src="https://img.shields.io/twitter/follow/jkrishna_d?logo=twitter&style=for-the-badge" alt="jkrishna_d" /></a> </p>
 
-- 🌐 New to open-source
+- 🌱 I’m currently learning **"What makes me Happy😊"**
 
-- 🌱 I’m currently learning **More than my limits**
-
-- 💬 Ask me about **Anything**
+- 💼 Open for **gigs and open-source contributions**.
 
 - 📫 How to reach me **jayak5063@gmail.com**
 
-- ⚡ Fun fact **You are always just one decision away from a totally different Life....**
+- ⚡ Truth: **"You are always just one decision away from a totally different Life...."**
+
+- Checkout my portfolio <a href="https://jkrishna-delta.vercel.app/" target="blank">Here</a> 
 
 # Languages and Tools 🛠️
 
@@ -59,8 +59,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
       </td>
-    </tr>
-    <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
       </td>
